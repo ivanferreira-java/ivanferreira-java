@@ -1,16 +1,25 @@
-### Hi there 👋
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="####">Ivan Ferreira</a>
+  </h1>
 
-<!--
-**ivanferreira-java/ivanferreira-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <h3 align="center">
+    Estudante: 
+  </h3>
+
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="150" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+</div><br>
+
+
+
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
